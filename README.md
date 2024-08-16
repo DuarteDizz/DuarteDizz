@@ -1,4 +1,4 @@
-## Olá, eu sou o Dizz!
+## ✌ Olá, eu sou o Dizz!
 
 <!--
 **DuarteDizz/DuarteDizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

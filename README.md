@@ -43,3 +43,9 @@ Here are some ideas to get you started:
   <img title="Power BI" align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 </div>
 
+<!-- Projects Div -->
+## Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDizz&repo=Portfolio&theme=yeblu)](https://github.com/DuarteDizz/Portfolio)
+
+
+

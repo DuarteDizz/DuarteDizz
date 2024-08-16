@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <!-- Projects Div -->
 ## Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDizz&repo=Portfolio&theme=yeblu)](https://github.com/DuarteDizz/Portfolio)
+[![DuarteDizz's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDizz&repo=Portfolio&show_owner=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## 🧰 Minha Toolbox
 ### Data Science & Analytics
 
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
   <img title="Plotly" align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
   <img title="Matplotlib" align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
   <img title="Scikit Learn" align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  <img title="Tensorflow" align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+  <img title="Tensorflow" align="center" height="35" width="35" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 </div>
 
 ### Databases
@@ -41,3 +42,4 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
   <img title="Power BI" align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 </div>
+

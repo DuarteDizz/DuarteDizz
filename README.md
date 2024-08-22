@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 <!-- Projects Div -->
 ## Projetos
 [![Readme Card Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDizz&repo=Portfolio&theme=yeblu&owner=true)](https://github.com/DuarteDizz/Portfolio)
+[![Readme Card CEAC](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDizz&repo=CEAC&theme=yeblu&owner=true)](https://github.com/DuarteDizz/CEAC)
+
 
 
 
